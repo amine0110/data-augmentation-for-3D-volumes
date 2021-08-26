@@ -1,3 +1,4 @@
+[![GitHub issues](https://img.shields.io/github/issues/amine0110/data-augmentation-for-3D-volumes)](https://github.com/amine0110/data-augmentation-for-3D-volumes/issues) [![GitHub license](https://img.shields.io/github/license/amine0110/data-augmentation-for-3D-volumes)](https://github.com/amine0110/data-augmentation-for-3D-volumes) [![GitHub stars](https://img.shields.io/github/stars/amine0110/data-augmentation-for-3D-volumes)](https://github.com/amine0110/data-augmentation-for-3D-volumes/stargazers) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py)
 # 3D volumes augmentation for tumor segmentation
 
 ## Introduction
