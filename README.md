@@ -45,5 +45,9 @@ If you want to read the whole article, you can visite [this link](https://pycad.
 ![Output image](https://github.com/amine0110/data-augmentation-for-3D-volumes/blob/main/example_generated_patient.PNG)
 
 
+## 🆕 NEW
 
+Full course about medical imaging segmentation is coming soon, join the waitlist here:
+
+https://pycad.co/monai-and-pytoch-for-medical-imaging/
 
