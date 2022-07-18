@@ -1,5 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/amine0110/data-augmentation-for-3D-volumes)](https://github.com/amine0110/data-augmentation-for-3D-volumes/issues) [![GitHub license](https://img.shields.io/github/license/amine0110/data-augmentation-for-3D-volumes)](https://github.com/amine0110/data-augmentation-for-3D-volumes) [![GitHub stars](https://img.shields.io/github/stars/amine0110/data-augmentation-for-3D-volumes)](https://github.com/amine0110/data-augmentation-for-3D-volumes/stargazers) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py) [![YouTube Video Views](https://img.shields.io/youtube/views/bh9uyUbsj7U?style=social)](https://youtu.be/bh9uyUbsj7U) ![GitHub watchers](https://img.shields.io/github/watchers/amine0110/data-augmentation-for-3D-volumes?style=social)
-# 3D volumes augmentation for tumor segmentation 
+# 3D volumes augmentation for medical images
 
 ## Introduction
 We discussed how to preprocess 3D volumes for tumor segmentation in the [previous article](https://pycad.co/preprocessing-3d-volumes-for-tumor-segmentation-using-monai-and-pytorch/), so in this article we will discuss another important step when working on a deep learning project. This is the data augmentation step.
