@@ -44,6 +44,10 @@ If you want to read the whole article, you can visite [this link](https://pycad.
 
 ![Output image](https://github.com/amine0110/data-augmentation-for-3D-volumes/blob/main/example_generated_patient.PNG)
 
+## 📩 Newsletter
+Stay up-to-date on the latest in computer vision and medical imaging! Subscribe to my newsletter now for insights and analysis on the cutting-edge developments in this exciting field.
+
+https://pycad.co/join-us/
 
 ## 🆕 NEW
 
